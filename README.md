@@ -4,10 +4,15 @@ Este trabajo consta en agregar validaciones a un formulario que nos dieron poste
 
 El formulario deberá enviarse solamente si cumple con los criterios definidos:
 
+
 🔹Ningún campo puede estar vacío
+
 🔹El Email debe tener un formato valido
+
 🔹La contraseña debe tener al menos 6 caracteres
+
 🔹Los datos ingresados en "Contraseña" y "Repetir contraseña" deben ser iguales
+
 🔹Se debe haber marcado el checkbox "Acepto los términos y condiciones del servicio" (en este caso dentro de un modal).
 
 
