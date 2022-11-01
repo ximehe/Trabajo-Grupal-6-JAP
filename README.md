@@ -1,4 +1,4 @@
-# Trabajo-Grupal-6-JAP
+# Trabajo-Grupal-6-JAP ✅
 
 Este trabajo consta en agregar validaciones a un formulario que nos dieron posteriormente en el trabajo grupal 1.
 
