@@ -2,7 +2,7 @@
 
 Este trabajo consta en agregar validaciones a un formulario que nos dieron posteriormente en el trabajo grupal 1.
 
-El formulario deberá enviarse solamente si cumple con los criterios definidos:
+## El formulario deberá enviarse solamente si cumple con los criterios definidos: ##
 
 
 🔹Ningún campo puede estar vacío
@@ -16,7 +16,7 @@ El formulario deberá enviarse solamente si cumple con los criterios definidos:
 🔹Se debe haber marcado el checkbox "Acepto los términos y condiciones del servicio" (en este caso dentro de un modal).
 
 
-Deberá darse feedback al usuario cumpliendo con los siguientes criterios:
+## Deberá darse feedback al usuario cumpliendo con los siguientes criterios: ##
 
 🔹Solamente se dará feedback al usuario, luego de que se intente ejecutar el submit, momento en el que se deberá mostrar el resultado de la validación para todos los campos. Luego de ese momento, el feedback deberá funcionar en tiempo real para todos los casos.
 
