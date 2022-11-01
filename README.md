@@ -17,10 +17,17 @@ El formulario deberá enviarse solamente si cumple con los criterios definidos:
 
 
 Deberá darse feedback al usuario cumpliendo con los siguientes criterios:
+
 🔹Solamente se dará feedback al usuario, luego de que se intente ejecutar el submit, momento en el que se deberá mostrar el resultado de la validación para todos los campos. Luego de ese momento, el feedback deberá funcionar en tiempo real para todos los casos.
+
 🔹Para cada caso, deberá alertarse al menos a través de un aviso que especifique la omisión y del color del borde del campo.
+
 🔹El campo "Repetir contraseña" solo se validará cuando se cumpla que su valor sea igual al del campo "Contraseña" y que el campo "Contraseña" se encuentre validado. Por lo que se mostrará como invalido mientras no se valide "Contraseña", aún cumpliéndose la igualdad.
+
 🔹El checkbox de los terminos y condiciones deberá dar feedback en 3 lugares:
-🔻El mismo checkbox, dentro del modal
-🔻El botón que despliega el modal
-🔻Un texto al lado del mismo botón
+
+         🔻El mismo checkbox, dentro del modal
+         
+         🔻El botón que despliega el modal
+         
+         🔻Un texto al lado del mismo botón
